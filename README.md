@@ -1,4 +1,4 @@
-# BUILDING AND ECS CLOUSTER WITH CDK
+# BUILDING AND ECS CLUSTER WITH CDK
 
 Configuration files for this repo can found in 'app.py'
 
